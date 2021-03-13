@@ -1,2 +1,2 @@
-# lab3
-# Yerassyl The 3rd Lab .net core
+ASP .NET CORE framework 
+Lab 3
